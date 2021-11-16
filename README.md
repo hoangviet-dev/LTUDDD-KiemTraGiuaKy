@@ -1,5 +1,7 @@
 
-# KIỂM TRA GIỮA KỲ **NGUYỄN HOÀNG VIỆT** - **18T1021355**
+# KIỂM TRA GIỮA KỲ 
+
+**NGUYỄN HOÀNG VIỆT** - **18T1021355**
 
  ## Thông tin bài làm
 | Màn hình | FILE |
