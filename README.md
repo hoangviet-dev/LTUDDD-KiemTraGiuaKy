@@ -1,6 +1,8 @@
 # kiem_tra_giua_ky
 
-Kiem tra giua ky
+**NGUYỄN HOÀNG VIỆT** - **18T1021355**
+
+Kiểm tra giữa kỳ
 
 ## Getting Started
 
